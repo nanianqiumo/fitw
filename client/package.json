@@ -1,0 +1,29 @@
+{
+  "name": "fitw",
+  "version": "0.2.1",
+  "description": "A command line fighting landlord game!",
+  "main": "index.js",
+  "scripts": {
+    "start":"fitw",
+    "dev":"./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "fitw": "./index.js"
+  },
+  "author": "YanDong",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "clui": "^0.3.6",
+    "commander": "^2.19.0",
+    "enquirer": "^2.3.0",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.2.2",
+    "loadsh": "0.0.3",
+    "shelljs": "^0.8.3",
+    "socket.io-client": "^2.2.0",
+    "yargs": "^13.1.0",
+    "yargs-parser": "^13.0.0"
+  }
+}
