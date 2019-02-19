@@ -19,11 +19,8 @@
     "commander": "^2.19.0",
     "enquirer": "^2.3.0",
     "figlet": "^1.2.1",
-    "inquirer": "^6.2.2",
     "loadsh": "0.0.3",
-    "shelljs": "^0.8.3",
     "socket.io-client": "^2.2.0",
-    "yargs": "^13.1.0",
     "yargs-parser": "^13.0.0"
   }
 }
